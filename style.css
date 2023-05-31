@@ -1,0 +1,27 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.main{
+    height:100vh;
+    background-color: blue;
+    width: 100%;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+ 
+}
+.container{
+    background-color: white;
+    height: 70%;
+    width: 30%;
+    border-radius: 12px;
+}
+img{
+    width:100%;
+    margin-bottom: 2rem;
+    border-radius: 12px;
+
+}
